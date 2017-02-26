@@ -27,8 +27,8 @@
       <file leaf-file-name="entertainment.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/entertainment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -466,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/entertainment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="30">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>

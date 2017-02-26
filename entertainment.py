@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# Creating multiple instances of that Python Class to represent my favorite movies.
+# Creating multiple instances of the 'Movie' Python Class to represent my favorite movies.
 
 la_la_land = media.Movie("La La Land",
                          "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_(film).png",
